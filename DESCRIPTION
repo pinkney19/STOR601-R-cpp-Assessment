@@ -1,0 +1,11 @@
+Package: StableMarriageCarla
+Type: Package
+Title: Implementation of the Fundamental Algorithm relating to the stable marriage problem of Donald E. Knuth
+Version: 1.0
+Date: 2022-03-31
+Author: Carla Pinkney
+Maintainer: Carla Pinkney <carlapinkney99@gmail.com>
+Description: Given 2 R data frames representing the preferences of each male and female, this package will return a stable matching.
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.8)
+LinkingTo: Rcpp
